@@ -1,6 +1,6 @@
 ## Welcome to Liu Heng's Pages
 
-You can use the [editor on GitHub](https://github.com/lh1202012/lh1202012.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Heng Liu Master student in Beijing Jiaotong University
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
